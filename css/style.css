@@ -1,0 +1,13 @@
+/* ----------------------Common Start --------------  */
+ body{
+    font-family: "PT Sans", sans-serif;
+    font-size: 16;
+    font-weight: 400px;
+    color: #000000;
+    padding-top: 109px;
+ }  
+
+ .def{
+    background-color: blue;
+ }
+ 
